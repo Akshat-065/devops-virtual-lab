@@ -3,11 +3,8 @@
 *.tfstate
 *.tfstate.backup
 
-# Minikube
+# Kubernetes
 .minikube/
-
-# Node modules
-node_modules/
 
 # OS files
 .DS_Store
